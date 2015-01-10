@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Problem-2
-//
-//  Created by Niraj  on 12/30/14.
-//  Copyright (c) 2014 Niraj Pant. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
